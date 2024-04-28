@@ -1,4 +1,5 @@
 import "./index.css";
+import "./App.css";
 import Weather from "./Weather.js";
 
 export default function App() {
