@@ -6,7 +6,8 @@ export default function App() {
     <div className="App">
       <Weather />
       <p>
-        Open-source code, by Monicah Ngari from{" "}
+        <a href="https://sweet-muffin-838925.netlify.app/"> Open-source code</a>
+        , by Monicah Ngari from{" "}
         <a href="https://www.shecodes.io/demos/react">She Codes</a>
       </p>
     </div>
